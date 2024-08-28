@@ -26,4 +26,4 @@ php flarum cache:clear
 ## Links
 
 - [Packagist](https://packagist.org/packages/xypp/flarum-month-date-fix)
-- [GitHub](https://github.com/xypp/flarum-month-date-fix)
+- [GitHub](https://github.com/zxy19/flarum-month-date-fix)
